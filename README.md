@@ -12,4 +12,4 @@ This project was built with  Visual Studio 2019 Community Edition and demonstrat
 
 ## Further information
 
-  * [Supporting content](https://www.sonajen.com/articles/211117)
+  * [Supporting content](https://www.sonajen.com/blog/211117)
